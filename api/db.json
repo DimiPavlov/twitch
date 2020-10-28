@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "Enter a stream",
+      "id": 1
+    },
+    {
+      "title": "My last one",
+      "description": "This stream should be differnet",
+      "id": 4
+    },
+    {
+      "title": "hello new one",
+      "description": "new stream done!!!",
+      "userId": "111993928334925969989",
+      "id": 5
+    },
+    {
+      "title": "one more stream please",
+      "description": "lets check this one",
+      "userId": "111993928334925969989",
+      "id": 6
+    }
+  ]
+}
